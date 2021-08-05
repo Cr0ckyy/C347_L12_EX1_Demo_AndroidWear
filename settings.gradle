@@ -1,2 +1,4 @@
 rootProject.name = "C347_L12_EX1_Demo_AndroidWear"
 include ':app'
+include ':app:wear'
+include ':wear'
